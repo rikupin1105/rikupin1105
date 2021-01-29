@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+#### Qualification
+- Google Technical Support Fundamentals
+- Azure Fundamentals AZ-900
+- Driver's license
+
 <!--
 **rikupin1105/rikupin1105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
