@@ -7,4 +7,4 @@
 
 #### Contacts
 - [Twitter](https://twitter.com/rikupin_1105)
-- [Instagram](https://www.instagram.com/rikupin_1105/)
+- [Blog](https://blog.rikupin.com)
